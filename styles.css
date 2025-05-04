@@ -287,3 +287,12 @@ body {
 .additional-info__languages-item {
    color: var(--secondary-text-color);
 }
+
+/* utilites */
+
+.u-in-limit {
+
+   margin: 0 auto;
+   width: 100%;
+
+}
