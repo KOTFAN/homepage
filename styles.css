@@ -74,6 +74,15 @@ body {
 
 /* Contact info styles */
 
+.contact_info_container {
+   flex-direction: column;
+}
+
+.contact-info__image {
+   margin: 0 auto 20px auto;
+
+}
+
 .contact-info__header,
 .contact-info__sub-header {
    text-align: center;
@@ -99,6 +108,7 @@ body {
 
 .contact-info__block--center {
    justify-content: center;
+   text-align: center;
 }
 
 .contact-info__item {
